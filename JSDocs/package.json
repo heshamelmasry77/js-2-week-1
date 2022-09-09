@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "docs": "node_modules/jsdoc/jsdoc.js js/script.js"
+    "docs":"node_modules/jsdoc/jsdoc.js js/script.js"
   },
   "author": "",
   "license": "ISC",
